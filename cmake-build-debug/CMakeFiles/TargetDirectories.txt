@@ -1,0 +1,3 @@
+C:/Users/gm817/CLionProjects/schulportal-cpp/cmake-build-debug/CMakeFiles/schulportal_cpp.dir
+C:/Users/gm817/CLionProjects/schulportal-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gm817/CLionProjects/schulportal-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
